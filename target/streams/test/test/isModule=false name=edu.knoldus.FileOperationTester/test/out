@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0m[32mFileOperationTester:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Check Valid Directory[0m[0m
+[0m[[0minfo[0m] [0m[31m- Check Invalid Directory *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  FileOperation.checkValidDirectory(".\\src\\test\\abc") was false (FileOperationTester.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[32m- Check Size[0m[0m
+[0m[[0minfo[0m] [0m[32m- Check Size of Empty folder[0m[0m
+[0m[[0minfo[0m] [0m[31m- Check Size by Folder *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.NullPointerException:[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.mutable.ArrayOps$ofRef$.newBuilder$extension(ArrayOps.scala:197)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.mutable.ArrayOps$ofRef.newBuilder(ArrayOps.scala:193)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.TraversableLike.filterImpl(TraversableLike.scala:246)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.TraversableLike.filterImpl$(TraversableLike.scala:245)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.mutable.ArrayOps$ofRef.filterImpl(ArrayOps.scala:193)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.TraversableLike.filter(TraversableLike.scala:259)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.TraversableLike.filter$(TraversableLike.scala:259)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.mutable.ArrayOps$ofRef.filter(ArrayOps.scala:193)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at edu.knoldus.FileOperation$.$anonfun$getListOfFilesAndFolders$1(FIleOperation.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:653)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

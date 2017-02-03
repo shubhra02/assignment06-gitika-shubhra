@@ -1,0 +1,136 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\target\scala-2.12\classes\edu\knoldus\FileOperation$.class
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\target\scala-2.12\classes\edu\knoldus\FileOperation.class
+binary dependencies:
+2 items
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> C:\Users\gitik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> edu.knoldus.FileOperation
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> edu.knoldus.FileOperation$
+used names:
+57 items
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> ::
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> :::
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> <byname>
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> <init>
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> ==
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Any
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> AnyRef
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Array
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> ArrayOps
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> B
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Boolean
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> ExecutionContext
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> File
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> FileOperation
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Function1
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Future
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Implicits
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> List
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> MatchError
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Nil
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Nothing
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Object
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> Predef
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> String
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> T
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> T0
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> apply
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> asInstanceOf
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> collection
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> concurrent
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> dir
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> directoryList
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> edu
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> f
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> file
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> fileList
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> filter
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> getSubsequentPaths
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> global
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> head
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> immutable
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> io
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> isDirectory
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> isFile
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> isInstanceOf
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> java
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> knoldus
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> listDirectory
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> listFile
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> listFiles
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> ofRef
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> package
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> refArrayOps
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> scala
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> srcDirectory
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> toList
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> x
+product stamps:
+2 items
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\target\scala-2.12\classes\edu\knoldus\FileOperation$.class -> lastModified(1486119659788)
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\target\scala-2.12\classes\edu\knoldus\FileOperation.class -> lastModified(1486119659785)
+source stamps:
+1 items
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> hash(ffa0eaa61b5118f7f467980b83dae8160023dd1d)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> lastModified(1476042403907)
+C:\Users\gitik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> java.lang.Object
+C:\Users\gitik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar -> scala.collection.immutable.$colon$colon
+internal apis:
+1 items
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw57kWvAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwRZszDHQABm5vdGlmeXNxAH4ADOPUw8h0AA1GaWxlT3BlcmF0aW9uc3EAfgAMlIhK43QAEmdldFN1YnNlcXVlbnRQYXRoc3NxAH4ADPL8IyF0AAR3YWl0c3EAfgAMAyIWeXQADSRhc0luc3RhbmNlT2ZzcQB+AAz7NZkPdAAGZXF1YWxzc3EAfgAMBXnyKnQAE2NoZWNrVmFsaWREaXJlY3RvcnlzcQB+AAySQRCydAAMYXNJbnN0YW5jZU9mc3EAfgAM1gRvSHQADHN5bmNocm9uaXplZHNxAH4ADNvACtN0AA0kaXNJbnN0YW5jZU9mc3EAfgAML+BF63QACW5vdGlmeUFsbHNxAH4ADIPs3210AAxpc0luc3RhbmNlT2ZzcQB+AAwNX/1odAACPT1zcQB+AAxgUQWMdAAFY2xvbmVzcQB+AAzJNDM8dAAIdG9TdHJpbmdzcQB+AAx7/AcddAACIT1zcQB+AAxbhaaedAAIZ2V0Q2xhc3NzcQB+AAyoXhuidAAYZ2V0TGlzdE9mRmlsZXNBbmRGb2xkZXJzc3EAfgAMkxkrZ3QAAm5lc3EAfgAMDz2uzXQAAmVxc3EAfgAM/s3HyXQAAiMjc3EAfgAM7Mm0QnQACGZpbmFsaXplc3EAfgAMfOzOqHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGWVkdS5rbm9sZHVzLkZpbGVPcGVyYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2VkdS5rbm9sZHVzc3EAfgCLdAADZWR1c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaA6JRF3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGBDOlxVc2Vyc1xnaXRpa1xEb3dubG9hZHNcRG9jdW1lbnRzXEdpdGlrYVxLbm9sZHVzXGZpbGVzLXBhdGgtcmV0cmlldmFsXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT/oOqmG1EY9/RnmAuD2ugWACPdHQ==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgOcwlV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYEM6XFVzZXJzXGdpdGlrXERvd25sb2Fkc1xEb2N1bWVudHNcR2l0aWthXEtub2xkdXNcZmlsZXMtcGF0aC1yZXRyaWV2YWxcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgOiURd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYEM6XFVzZXJzXGdpdGlrXERvd25sb2Fkc1xEb2N1bWVudHNcR2l0aWthXEtub2xkdXNcZmlsZXMtcGF0aC1yZXRyaWV2YWxcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=

@@ -1,0 +1,137 @@
+<scoverage 
+statement-count="36" statements-invoked="25" statement-rate="69.44" branch-rate="50.00" version="1.0" timestamp="1486119327302">
+    <packages>
+        <package name="edu.knoldus" statement-count="36" statements-invoked="25" statement-rate="69.44">
+            <classes>
+                <class 
+                name="edu.knoldus.FileOperation" filename="edu\knoldus\FIleOperation.scala" statement-count="36" statements-invoked="25" statement-rate="69.44" branch-rate="50.00">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/FileOperation/checkValidDirectory" statement-count="6" statements-invoked="4" statement-rate="66.67" branch-rate="50.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="checkValidDirectory" start="1105" end="1118" line="33" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="checkValidDirectory" start="1160" end="1165" line="37" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="checkValidDirectory" start="1073" end="1095" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="checkValidDirectory" start="1129" end="1133" line="34" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="checkValidDirectory" start="1160" end="1165" line="37" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="checkValidDirectory" start="1129" end="1133" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/FileOperation/getListOfFilesAndFolders" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="375" end="405" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="240" end="466" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="312" end="325" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="312" end="354" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="312" end="347" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="396" end="404" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="418" end="461" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="264" end="286" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="375" end="412" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="333" end="346" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getListOfFilesAndFolders" start="375" end="388" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/FileOperation/getSubsequentPaths" statement-count="19" statements-invoked="10" statement-rate="52.63" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="865" end="878" line="25" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="733" end="741" line="22" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="907" end="920" line="26" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="907" end="944" line="26" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="792" end="800" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="649" end="684" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="670" end="683" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="844" end="857" line="25" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="712" end="725" line="22" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="844" end="886" line="25" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="907" end="937" line="26" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="712" end="749" line="22" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="712" end="742" line="22" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="928" end="936" line="26" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="759" end="801" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="649" end="662" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="954" end="983" line="27" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="649" end="691" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FileOperation" class-type="Object" full-class-name="edu.knoldus.FileOperation" source="C:\Users\gitik\Downloads\Documents\Gitika\Knoldus\files-path-retrieval\src\main\scala\edu\knoldus\FIleOperation.scala" method="getSubsequentPaths" start="844" end="879" line="25" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

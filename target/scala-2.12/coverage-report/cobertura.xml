@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="0.69" lines-valid="36" lines-covered="25" branches-valid="2" branches-covered="1" branch-rate="0.50" complexity="0" version="1.0" timestamp="1486119327198">
+    <sources>
+        <source>--source</source>
+        <source>C:/Users/gitik/Downloads/Documents/Gitika/Knoldus/files-path-retrieval/src/main/scala-2.12</source>
+        <source>C:/Users/gitik/Downloads/Documents/Gitika/Knoldus/files-path-retrieval/src/main/scala</source>
+        <source>C:/Users/gitik/Downloads/Documents/Gitika/Knoldus/files-path-retrieval/src/main/java</source>
+    </sources>
+    <packages>
+        <package name="edu.knoldus" line-rate="0.69" branch-rate="0.50" complexity="0">
+            <classes>
+                <class 
+                name="edu.knoldus.FileOperation" filename="edu/knoldus/FIleOperation.scala" line-rate="0.69" branch-rate="0.50" complexity="0">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/FileOperation/checkValidDirectory" signature="()V" line-rate="0.67" branch-rate="0.50" complexity="0">
+                            <lines>
+                                <line number="33" hits="1" branch="false"/>
+                                <line number="37" hits="0" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="34" hits="1" branch="false"/>
+                                <line number="37" hits="0" branch="false"/>
+                                <line number="34" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="edu.knoldus/FileOperation/getListOfFilesAndFolders" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="14" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="13" hits="1" branch="false"/>
+                                <line number="13" hits="1" branch="false"/>
+                                <line number="13" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="12" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                                <line number="13" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="edu.knoldus/FileOperation/getSubsequentPaths" signature="()V" line-rate="0.53" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="25" hits="0" branch="false"/>
+                                <line number="22" hits="1" branch="false"/>
+                                <line number="26" hits="0" branch="false"/>
+                                <line number="26" hits="0" branch="false"/>
+                                <line number="23" hits="1" branch="false"/>
+                                <line number="21" hits="1" branch="false"/>
+                                <line number="21" hits="1" branch="false"/>
+                                <line number="25" hits="0" branch="false"/>
+                                <line number="22" hits="1" branch="false"/>
+                                <line number="25" hits="0" branch="false"/>
+                                <line number="26" hits="0" branch="false"/>
+                                <line number="22" hits="1" branch="false"/>
+                                <line number="22" hits="1" branch="false"/>
+                                <line number="26" hits="0" branch="false"/>
+                                <line number="23" hits="1" branch="false"/>
+                                <line number="21" hits="1" branch="false"/>
+                                <line number="27" hits="0" branch="false"/>
+                                <line number="21" hits="1" branch="false"/>
+                                <line number="25" hits="0" branch="false"/>
+                            </lines>
+</method>
+                    </methods>
+                    <lines>
+                        <line number="25" hits="0" branch="false"/>
+                        <line number="33" hits="1" branch="false"/>
+                        <line number="22" hits="1" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="37" hits="0" branch="false"/>
+                        <line number="26" hits="0" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="26" hits="0" branch="false"/>
+                        <line number="23" hits="1" branch="false"/>
+                        <line number="13" hits="1" branch="false"/>
+                        <line number="13" hits="1" branch="false"/>
+                        <line number="21" hits="1" branch="false"/>
+                        <line number="21" hits="1" branch="false"/>
+                        <line number="13" hits="1" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="25" hits="0" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="22" hits="1" branch="false"/>
+                        <line number="34" hits="1" branch="false"/>
+                        <line number="25" hits="0" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="12" hits="1" branch="false"/>
+                        <line number="26" hits="0" branch="false"/>
+                        <line number="22" hits="1" branch="false"/>
+                        <line number="22" hits="1" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="26" hits="0" branch="false"/>
+                        <line number="37" hits="0" branch="false"/>
+                        <line number="23" hits="1" branch="false"/>
+                        <line number="13" hits="1" branch="false"/>
+                        <line number="21" hits="1" branch="false"/>
+                        <line number="27" hits="0" branch="false"/>
+                        <line number="21" hits="1" branch="false"/>
+                        <line number="25" hits="0" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="34" hits="1" branch="false"/>
+                    </lines>
+</class>
+            </classes>
+        </package>
+    </packages>
+</coverage>
